@@ -37,10 +37,7 @@ The viewer supports several keyboard and mouse controls:
 
 Clone the repository:
 
-git clone https://github.com/your_username/mandelbrot_viewer.git
-
-mathematica
-Copy code
+git clone https://github.com/liviuxyz-ctrl/ProiectGUI
 
 Enter the project directory:
 
@@ -50,15 +47,11 @@ Install the required packages:
 
 pip install -r requirements.txt
 
-
-
 ## Usage
 
 Run the viewer:
 
 python mandelbrot_viewer.py
-
-Copy code
 
 ## License
 
