@@ -2,6 +2,12 @@
 
 This program is an interactive viewer for the Mandelbrot set, developed using Python, Pygame, and OpenGL. You can navigate the Mandelbrot set using mouse and keyboard controls.
 
+# Examples 
+
+![image](https://github.com/liviuxyz-ctrl/ProiectGUI/assets/70070368/d4d14d51-d324-4ee8-bba8-9aaf83ab7354)
+![image](https://github.com/liviuxyz-ctrl/ProiectGUI/assets/70070368/79e875c8-79d2-44a1-8c83-6621fd5f9fd2)
+
+
 ## Features
 
 - Real-time rendering of the Mandelbrot set.
